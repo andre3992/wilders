@@ -2,14 +2,15 @@
   "name": "wilders",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "yarn start",
   "scripts": {
     "test": "yarn start",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "andre3992 <andre.regedor@hotmail.com>",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.0.0"
-  }
+  },
+  "repository": "https://github.com/andre3992/wilders.git"
 }
